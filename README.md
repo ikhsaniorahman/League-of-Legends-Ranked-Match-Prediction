@@ -83,7 +83,9 @@ I split dataset to 70% train and 30% test and scale the dataset with MinMaxScale
 
 ## Modelling and Evaluation
 I try to use Logistic Regression and Random Forest. 
+
 *Most suitable model for the dataset:* **Random Forest**
+
 ![image](./assets/images/Logistic%20Regression.png)
 ![image](./assets/images/ROC%20AUC.PNG)
 ![image](./assets/images/confusion%20matrix.PNG)
